@@ -1,0 +1,3 @@
+# Garante que o Apache priorize o index.php em relacao ao index.html
+DirectoryIndex index.php index.html
+AddDefaultCharset UTF-8
